@@ -1,64 +1,34 @@
-![](https://komarev.com/ghpvc/?username=crosenblum)
-
-Yol bolson, may there be a road! 👋
-
-- 🔭 I’m currently working on ... creating a php custom forms library
-- 🌱 I’m currently learning ... raspberry pi
-- 👯 I’m looking to collaborate on ... fighting gmail spam
-- 🤔 I’m looking for help with ... how to make a low end batcomputer
-- 💬 Ask me about ... old tech, new tech
-- 📫 How to reach me: ... crosenblum@gmail.com
-- ⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, <a href="https://www.louislamour.com/" target="_blank">Louis L'amour</a>, <a href="https://www.williamjohnstone.net/">William W. Johnstone</a>, <a href="https://www.lemodesittjr.com/">L.E. Modesitt Jr</a>, and <a href="https://www.nerowolfe.org/htm/stout/">Rex Stout</a>.
-
-<br/>
-Social icons section.
-<p align="left">
-<a href="https://www.linkedin.com/in/craigmrosenblum/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-</p>
-<br/>
-<p align="left"> 
-Languages and tools section.
-<h3 align="left">Operating Systems:</h3>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.debian.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="msdos" width="40" height="40"/> </a>
+# 💫 About Me:
+🔭 I’m currently working on ... creating a php custom forms library<br>🌱 I’m currently learning ... raspberry pi<br>👯 I’m looking to collaborate on ... fighting gmail spam<br>🤔 I’m looking for help with ... how to make a low end batcomputer<br>💬 Ask me about ... old tech, new tech<br>📫 How to reach me: ... crosenblum@gmail.com<br>⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/craig.m.rosenblum) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/craigmrosenblum) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/crosenblum) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/crosenblum) 
 
-<h3 align="left">Content Management Systems:</h3>
-<a href="https://www.drupal.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg" alt="Drupal" width="40" height="40" /> </a>
-<a href="https://www.wordpress.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="40" height="40" /> </a>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=crosenblum&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=crosenblum&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=crosenblum&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=crosenblum&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Databases:</h3>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/database/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<h3 align="left">Web Design/Front End:</h3>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://jquery.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="40" height="40"/> </a> 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=crosenblum&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<h3 align="left">Web Programming/Back End:</h3>
-<p align="left"> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="bash" width="40" height="40"/> </a> 
+---
+[![](https://visitcount.itsvg.in/api?id=crosenblum&icon=0&color=4)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/crosenblum612) 
 
-<h3 align="left">Tools:</h3>
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" alt="ifttt" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" /> </a>
-
-
-<a href="https://www.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bash" width="40" height="40"/> </a> 
-
-</p>
-
-
-[![Craig Rosenblum's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosenblum)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
