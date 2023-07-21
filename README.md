@@ -1,4 +1,14 @@
-### Hi there 👋
+### Yol bolson, may there be a road! 👋
+
+- 🔭 I’m currently working on ... creating a php custom forms library
+- 🌱 I’m currently learning ... raspberry pi
+- 👯 I’m looking to collaborate on ... fighting gmail spam
+- 🤔 I’m looking for help with ... how to make a low end batcomputer
+- 💬 Ask me about ... old tech, new tech
+- 📫 How to reach me: ... crosenblum@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 Social icons section.
 <h3 align="left">Connect with me:</h3>
@@ -50,18 +60,6 @@ Languages and tools section.
 <a href="https://www.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicon/devicon.git/icons/bootstrap/bootstrap-original.svg" alt="bash" width="40" height="40"/> </a> 
 
 </p
-<!--
-**crosenblum/crosenblum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... creating a php custom forms library
-- 🌱 I’m currently learning ... raspberry pi
-- 👯 I’m looking to collaborate on ... fighting gmail spam
-- 🤔 I’m looking for help with ... how to make a low end batcomputer
-- 💬 Ask me about ... old tech, new tech
-- 📫 How to reach me: ... crosenblum@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Craig Rosenblum's GitHub stats](https://github-readme-stats.vercel.app/api?username=crosenblum)](https://github.com/anuraghazra/github-readme-stats)
