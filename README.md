@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=crosenblum)
+
 Yol bolson, may there be a road! 👋
 
 - 🔭 I’m currently working on ... creating a php custom forms library
@@ -6,13 +8,14 @@ Yol bolson, may there be a road! 👋
 - 🤔 I’m looking for help with ... how to make a low end batcomputer
 - 💬 Ask me about ... old tech, new tech
 - 📫 How to reach me: ... crosenblum@gmail.com
-- ⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
+- ⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, <a href="https://www.louislamour.com/" target="_blank">Louis L'amour</a>, <a href="https://www.williamjohnstone.net/">William W. Johnstone</a>, <a href="https://www.lemodesittjr.com/">L.E. Modesitt Jr</a>, and <a href="https://www.nerowolfe.org/htm/stout/">Rex Stout</a>.
 
+<br/>
 Social icons section.
 <p align="left">
 <a href="https://www.linkedin.com/in/craigmrosenblum/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
-
+<br/>
 <p align="left"> 
 Languages and tools section.
 <h3 align="left">Operating Systems:</h3>
@@ -31,8 +34,7 @@ Languages and tools section.
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/database/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
-
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="40" height="40"/> </a>
 
 <h3 align="left">Web Design/Front End:</h3>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -50,7 +52,7 @@ Languages and tools section.
 
 <h3 align="left">Tools:</h3>
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" alt="ifttt" width="40" height="40"/> </a> 
-<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg" alt="filezilla" width="40" height="40"/> </a> 
+<a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" alt="filezilla" width="40" height="40"/> </a> 
 <a href="" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" /> </a>
 
 
