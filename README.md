@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with ... how to make a low end batcomputer
 - 💬 Ask me about ... old tech, new tech
 - 📫 How to reach me: ... crosenblum@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
 
 
 Social icons section.
