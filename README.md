@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ... creating a php custom forms library<br>🌱 I’m currently learning ... raspberry pi<br>👯 I’m looking to collaborate on ... fighting gmail spam<br>🤔 I’m looking for help with ... how to make a low end batcomputer<br>💬 Ask me about ... old tech, new tech<br>📫 How to reach me: ... crosenblum@gmail.com<br>⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
+🔭 I’m currently working on ... setting up a homelab on Raspberry Pi<br>🌱 I’m currently learning ... docker & raspberry pi<br>👯 I’m looking to collaborate on ... fighting gmail spam<br>🤔 I’m looking for help with ... turn my Raspberry Pi into a batcomputer.<br>💬 Ask me about ... old tech, new tech<br>📫 How to reach me: ... crosenblum@gmail.com<br>⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
 
 
 ## 🌐 Socials:
