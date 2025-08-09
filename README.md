@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ... learning Casa OS as a way to setup docker containers on mRaspberry Pi<br>🌱 I’m currently learning ... casa os, pi-hole, docker & raspberry pi<br>👯 I’m looking to collaborate on ... fighting gmail spam<br>🤔 I’m looking for help with ... turn my Raspberry Pi into a batcomputer.<br>💬 Ask me about ... old tech, new tech<br>📫 How to reach me: ... crosenblum@gmail.com<br>⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
+🔭 I’m currently working on creating various python scripts to identify issues with my media server either via the jellyfin api, or scanning my external hard drive for key issues...<br>👯 I’m looking to collaborate on ... fighting gmail spam<br>🤔 I’m looking for help with ... turn my Raspberry Pi into a batcomputer.<br>💬 Ask me about ... old tech, new tech<br>📫 How to reach me: ... crosenblum@gmail.com<br>⚡ Fun fact: ... I love to read westerns, science fiction and mysteries. Favorite authors, Louis L'amour, William W. Johnstone, L.E. Modesitt Jr, and Rex Stout.
 
 
 ## 🌐 Socials:
